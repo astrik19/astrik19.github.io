@@ -1,1 +1,1 @@
-# astrik19.github.io
+# mywebsite.github.io
