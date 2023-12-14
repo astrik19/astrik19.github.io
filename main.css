@@ -152,7 +152,7 @@ nav {
     margin-left: 2.7em;
     margin-top: 5em;
 }
-.next p{
+.next a{
     text-decoration: none;
     color: #000;
 }
@@ -260,7 +260,7 @@ details[open] {
 }
 .otzivy_gallery {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: center;
 }
 .page_footer {
@@ -276,12 +276,12 @@ details[open] {
     align-items: center;
     width: 10%;
     border-radius: 100%;
-    margin-left: 34em;
+    margin-left: 45em;
 }
 .logo_link p{
     font-size:  80px;
-    margin-top: -105px;
-    margin-left: 8em;
+    margin-top: -133px;
+    margin-left: 10.5em;
     color: #000;
 }
 .right_nav_menu {
